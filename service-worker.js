@@ -1,4 +1,4 @@
-const CACHE_NAME = "enigma-mobile-console-v0.2.0";
+const CACHE_NAME = "enigma-mobile-console-v0.3.0";
 const CORE_ASSETS = ["./", "./index.html", "./manifest.json", "./icon.svg", "./apple-touch-icon.png", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (event) => {
